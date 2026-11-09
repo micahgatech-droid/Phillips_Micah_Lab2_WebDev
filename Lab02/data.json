@@ -1,0 +1,22 @@
+{
+    "chart_title": "NBA Stars' 40 Point Game Data",
+    "data_points": [
+        {
+            "Player": "Anthony Edwards",
+            "40+ Point Games": 34
+        },
+        {
+            "Player": "Luka Doncic",
+            "40+ Point Games": 70
+        },
+        {
+            "Player": "LeBron James",
+            "40+ Point Games": 108
+        },
+        {
+            "Player": "Stephen Curry",
+            "40+ Point Games": 83
+            
+        }
+    ]
+}
